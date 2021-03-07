@@ -1,3 +1,14 @@
+## Me genero la carpeta dist\pedidos-pwa pero me cargaba la pagina en blanco como si no encontrara el html los comandos que use 
+
+# 1ero cree un proyecto de angular normal ng new NOMBRE --routing 
+# 2do ng add @angular/pwa
+# 3ro me cree un script "prod": "ng build --prod"  => luego lo ejecute npm run prod
+# 4to npm install -g angular-http-server
+# 5to cd dist/pedidos-pwa
+# 6to angular-http-server
+
+
+
 # PedidosPwa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
